@@ -1,4 +1,4 @@
-### Olá! Sou o Renan Soares, estudante de Sistemas de Informação (UFF) 
+### Olá! Me chamo Renan Soares e sou estudante de Sistemas de Informação (UFF) 
 
 <div align="center">
   <a href="https://github.com/renans80">
