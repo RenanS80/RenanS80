@@ -20,6 +20,7 @@
 <div>
   <a href="https://www.linkedin.com/in/renansoaresf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.behance.net/renansoares11" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" height="28" width="111" target="_blank"></a>
+    <a href="https://trailblazer.me/id/rsoares9" target="_blank"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/renan_soaresf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
  
