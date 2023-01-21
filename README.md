@@ -1,5 +1,3 @@
-### Olá! Me chamo Renan Soares e sou estudante de Sistemas de Informação (UFF) 
-
 <div align="center">
   <a href="https://github.com/renans80">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renans80&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
